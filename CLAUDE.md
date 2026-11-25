@@ -10,6 +10,7 @@ through.
 
 | Agent | Job | Writes to |
 |---|---|---|
+| `grsn-creative-director` | GARRISON's creative director: daily idea (`/grsn-today`), Yard Series, campaigns, captions, Corteiz blueprint. Reads `grsn/` every time | `grsn/content-log.md` |
 | `grsn-promo-director` | Promotion creative direction: what to post, when, how it should look and read, and prepping the assets | `reports/promo/YYYY-MM-DD.md` |
 | `grsn-shopify-marketing` | Shopify marketing admin: sales/traffic pulse, discounts, collections, product hygiene, campaign tracking | `reports/shopify/YYYY-MM-DD.md` |
 
