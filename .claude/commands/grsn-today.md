@@ -4,11 +4,11 @@ description: GARRISON daily loop. Today's one content idea from the creative dir
 
 Use the `grsn-creative-director` agent to run its DAILY LOOP for today:
 
-1. Read `grsn/brand.md`, `grsn/corteiz-blueprint.md`, `grsn/yard-series.md`, `grsn/captions.md` and `grsn/content-log.md`.
+1. Read `grsn/plan.md` FIRST (Josh's day-by-day plan, follow it), then `grsn/campaigns.md`, `grsn/brand.md`, `grsn/corteiz-blueprint.md`, `grsn/yard-series.md`, `grsn/captions.md` and `grsn/content-log.md`.
 2. Check what @corteiz posted recently (browser, read only) and note one move worth flipping. If no browser tool is connected, say so and use the blueprint instead. Never invent their posts.
 3. Check @garrisonworldwide's latest posts and numbers through Windsor.ai (Instagram). If it isn't connected or returns nothing, say so. Never invent numbers.
 4. Check which products are live on Shopify (read only).
-5. Give Josh ONE idea for today in this exact format:
+5. Give Josh TODAY'S move from the plan (only pitch a new idea if the plan leaves today open) in this exact format:
    - **TODAY WE PROMOTING:**
    - **THE POST:** (format + shot by shot, with [PHOTO: ...] placeholders)
    - **THE CAPTION:** (house format, Josh writes the final)
